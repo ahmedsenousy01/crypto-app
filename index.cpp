@@ -3,5 +3,5 @@ using namespace std;
 
 int main()
 {
-  cout << "aes\n";
+  cout << "des\n";
 }
